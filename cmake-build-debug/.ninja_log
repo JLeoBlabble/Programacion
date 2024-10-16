@@ -1,0 +1,7 @@
+# ninja log v6
+1266	1431	1729003746293617059	Problemas1y2	2e7d7aa09f61fc4
+3	1264	1729003745031116197	CMakeFiles/Problemas1y2.dir/Problemas_1_2/main.cpp.o	92f125670ba720cd
+4	1266	1729003745031709793	CMakeFiles/Problemas1y2.dir/Problemas_1_2/Estudiante.cpp.o	f6386c2849f2751a
+3	102	1729004050401011774	build.ninja	3b312bd38f8da611
+2	709	1729003032037012469	CMakeFiles/Problemas1y2.dir/Problemas_1_2/Persona.cpp.o	bf0191a281d6e792
+2	83	1729004050401011774	build.ninja	3b312bd38f8da611
